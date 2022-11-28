@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
-
+ 
 int main()
 {
-cout << "12345";
+cout << "123456";
+cout << endl << "hi";
+
 return 0;
 }
