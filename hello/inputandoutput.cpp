@@ -22,3 +22,4 @@ using namespace std;
     cout<<num1/num2<<endl;
     return 0;
  }
+ 
